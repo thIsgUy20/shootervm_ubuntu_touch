@@ -24,7 +24,6 @@
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
-  <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="development" name="CyanogenMod/android_development" />
@@ -32,10 +31,10 @@
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
   <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
-  <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
-  <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
+  <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" />
+  <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" />
+  <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
-  <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
   <project path="device/htc/msm8660-common" name="Team-Hydra/android_device_htc_msm8660-common" />
